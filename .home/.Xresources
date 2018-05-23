@@ -1,0 +1,67 @@
+! =====================================================================
+! XTerm stuff
+! =====================================================================
+! Default and menu font
+xterm*faceName: DejaVuSansMono Nerd Font Mono
+xterm*faceSize: 10
+xterm*renderFont: true
+
+
+
+! font settings --------------------------------------------------------------
+
+Xft.autohint: true
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+!Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
