@@ -1,0 +1,28 @@
+Xft.dpi:       96
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+! XTerm
+
+XTerm*background:        #222D31
+XTerm*foreground:        #d8d8d8
+XTerm*pointerColor:      #1ABB9B
+XTerm*faceName:          mononoki Nerd Font Mono
+XTerm*faceSize: 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
